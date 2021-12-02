@@ -1,0 +1,23 @@
+[
+  {
+    "id": 835653449,
+    "nombre": "oliver",
+    "cuenta": 284818542,
+    "contrasena": "09",
+    "saldo": 1200
+  },
+  {
+    "id": 340975899,
+    "nombre": "luis",
+    "cuenta": 660057342,
+    "contrasena": "123",
+    "saldo": 8000
+  },
+  {
+    "id": 743217247,
+    "nombre": "Juanita",
+    "cuenta": 332959125,
+    "contrasena": "12",
+    "saldo": 0
+  }
+]
